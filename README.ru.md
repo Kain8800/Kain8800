@@ -1,12 +1,12 @@
 *[English](README.md) · Русский*
 
-# Привет, я Карманов Сергей!
+# Привет, я Сергей Карманов!
 
 **ML / Data Science — ищу работу в прикладном AI: обработка документов, извлечение данных, RAG**
 
 Магистр НГУ (ФЕН, 2026). Опыт ML на биологических и биомедицинских данных.
 
-[kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://linkedin.com/in/сергей-карманов-27897336b)
+[kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergey-karmanov/) · [Telegram](https://t.me/kainanasar) 
 
 ---
 
