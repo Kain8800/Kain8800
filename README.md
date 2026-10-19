@@ -2,7 +2,7 @@
 
 # Hi, I'm Sergey Karmanov!
 
-**ML / Data Science — seeking a role in applied AI: document processing, data extraction, RAG**
+**ML / Data Science · Bioinformatics · LLM/RAG · Open to Junior/Mid-level roles · Remote or Novosibirsk**
 
 MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experience with biological and biomedical data.
 
@@ -23,7 +23,7 @@ MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experi
 
 ### Learning
 - **LLM / RAG:** prompt engineering, RAG pipelines, OpenAI API
-- **Document processing (LLM):** extracting and structuring data from PDF, PyMuPDF
+- **Pipelines:** Docker, Nextflow
 - **Backend for ML services:** FastAPI
 
 ---
@@ -73,9 +73,6 @@ A project with a negative result and a set of experiments showing the result is 
 
 **Cookie Fest**, Novosibirsk, 29 November – 2 December 2024 — team of 2, predicting employee burnout from HR data (18,590 records). I was responsible for data preparation and exploratory analysis, and for presenting the solution.
 
-### In progress
-- **Structured data extraction from scanned documents** (vision model): per-field metrics, a rejection threshold for manual review, and search across documents
-
 ---
 
 ## Publications
@@ -92,8 +89,7 @@ Metabolomic screening of amino acids and acylcarnitines in blood plasma and reco
 
 ## Career goal
 
-Looking for an **ML Engineer / Data Scientist** role in applied AI. Areas I want to work in:
-- solutions for **document processing and data extraction** (LLM + classical parsing)
-- **RAG systems** and semantic search over documents
-- building and optimizing ML pipelines
-- quality control of data and model metrics
+Looking for a junior role in one of these areas:
+- **Bioinformatics:** NGS data analysis, pipeline development, genomics
+- **Data Science / ML:** models on tabular and biological data, rigorous validation, data and metric quality control
+- **LLM / RAG:** RAG systems, search and data extraction from documents
