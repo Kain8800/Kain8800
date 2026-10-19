@@ -6,7 +6,7 @@
 
 MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experience with biological and biomedical data.
 
-[kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://linkedin.com/in/сергей-карманов-27897336b)
+[kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergey-karmanov/) · [Telegram](https://t.me/kainanasar)
 
 ---
 
