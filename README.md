@@ -89,7 +89,7 @@ Metabolomic screening of amino acids and acylcarnitines in blood plasma and reco
 
 ## Career goal
 
-Looking for a junior role in one of these areas:
+Seeking a Junior/Mid-level role in one of the following areas:
 - **Bioinformatics:** NGS data analysis, pipeline development, genomics
 - **Data Science / ML:** models on tabular and biological data, rigorous validation, data and metric quality control
 - **LLM / RAG:** RAG systems, search and data extraction from documents
