@@ -14,6 +14,7 @@ MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experi
 
 ### Confident
 - **Python:** NumPy, pandas, matplotlib, scikit-learn
+- **HPC:** cluster computing (PBS), conda environments, GPU model inference
 - **Data:** processing and cleaning, exploratory analysis, visualization, feature engineering
 - **Document processing:** data extraction from PDF (`pdfplumber`)
 - **Validation:** homology stratification (MMseqs2), data-leakage control, control experiments on shuffled labels
