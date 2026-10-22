@@ -48,19 +48,19 @@ Pipeline: data collection from four sources, predictions from off-the-shelf mode
 - The largest gain is where the model is weakest: **+0.124 F1** on low-homology proteins
 - Strict validation: homology stratification (MMseqs2), per-sequence leakage exclusion, a reproducible pipeline
 - Data sources: ODB, RefSeq, UniProtKB, KEGG; PDF parsing (`pdfplumber`)
-- Repository: [prokaryotic-ec-operon-filter](https://github.com/Kain420/prokaryotic-ec-operon-filter)
+- Repository: [prokaryotic-ec-operon-filter](https://github.com/Kain8800/prokaryotic-ec-operon-filter)
 
 ### Spotify Churn Analysis: diagnosing the absence of signal in data
 A project with a negative result and a set of experiments showing the result is real, not a modeling error.
 - Five control experiments: a pipeline check on data with a known signal, comparing real labels against deliberately shuffled ones, an examination of what class balancing does, calibration of the mutual-information estimate, and a demonstration of overfitting
 - ROC-AUC **0.50** across all models and preprocessing strategies; the tuned model loses to a constant predictor
 - Practical takeaway: how to tell "the model is undertrained" from "there is no signal in the data" before spending time on tuning
-- Repository: [spotify-churn-analysis](https://github.com/Kain420/spotify-churn-analysis)
+- Repository: [spotify-churn-analysis](https://github.com/Kain8800/spotify-churn-analysis)
 
 ### Navi — a Telegram bot for channel navigation
 - Post indexing, full-text search, and navigation through an inline interface
-- Asynchronous architecture (aiohttp, Telethon, asyncio) in webhook mode, deployed on Render — a running service rather than a local computation
-- Repository: [Navi](https://github.com/Kain420/Navi)
+- Asynchronous architecture (aiohttp, Telethon, asyncio) in webhook mode, running in production on Render
+- Repository: [Navi](https://github.com/Kain8800/Navi)
 
 ### Research Assistant | AI Centre, NSU
 - Preparing and processing datasets for research
