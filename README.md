@@ -2,11 +2,11 @@
 
 # Hi, I'm Sergey Karmanov!
 
-**ML / Data Science · Bioinformatics · LLM/RAG · Open to Junior/Mid-level roles · Remote or Novosibirsk**
+ML / Data Science · Bioinformatics · LLM/RAG · Open to Junior/Mid-level roles · Remote or Novosibirsk
 
 MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experience with biological and biomedical data.
 
-[kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergey-karmanov/) · [Telegram](https://t.me/kainanasar)
+[kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergey-karmanov/) · [Telegram](https://t.me/Kain8800)
 
 ---
 
@@ -19,7 +19,7 @@ MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experi
 - **Document processing:** data extraction from PDF (`pdfplumber`)
 - **Validation:** homology stratification (MMseqs2), data-leakage control, control experiments on shuffled labels
 - **Tools & databases:** Git, SQL, Linux
-- **Domain:** bioinformatics — sequences, annotations, working with biological databases (UniProt, RefSeq, KEGG, ODB)
+- **Bioinformatics:** sequences, annotations, biological databases (UniProt, RefSeq, KEGG, ODB)
 
 ### Learning
 - **LLM / RAG:** prompt engineering, RAG pipelines, OpenAI API
@@ -31,12 +31,12 @@ MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experi
 ## Education
 
 ### Novosibirsk State University (NSU)
-- **MSc**, Faculty of Natural Sciences, bioinformatics, 2023–2026
-- **Thesis:** "EC-number prediction for enzymes with operon structure using AI"
+- MSc in bioinformatics, Faculty of Natural Sciences, 2023–2026
+- Thesis: "EC-number prediction for enzymes with operon structure using AI"
 
 ### Saratov State University (N. G. Chernyshevsky)
-- **Professional retraining**, Digital Department: "Data Processing Specialist", 2022–2023
-- **Final project:** "Cancer diagnostics from biomarkers using machine learning" (co-authored)
+- Professional retraining program "Data Processing Specialist", Digital Department, 2022–2023
+- Final project (co-authored): "Cancer diagnostics from biomarkers using machine learning"
 
 ---
 
@@ -44,20 +44,20 @@ MSc, Novosibirsk State University (Faculty of Natural Sciences, 2026). ML experi
 
 ### Master's thesis: EC-number prediction for enzymes
 Pipeline: data collection from four sources, predictions from off-the-shelf models (ProteInfer, CLEAN), a verification filter based on operon context, and stratified quality evaluation.
-- Macro-F1 **0.807 → 0.887**, accuracy 0.967 → 0.982 while coverage drops 0.879 → 0.716 — the filter declines uncertain predictions instead of getting them wrong
+- Macro-F1 **0.807 → 0.887**, accuracy 0.967 → 0.982; coverage drops from 0.879 to 0.716 because the filter rejects uncertain predictions
 - The largest gain is where the model is weakest: **+0.124 F1** on low-homology proteins
-- Strict validation: homology stratification (MMseqs2), per-sequence leakage exclusion, a reproducible pipeline
+- Validation: homology stratification (MMseqs2), per-sequence leakage exclusion, a reproducible pipeline
 - Data sources: ODB, RefSeq, UniProtKB, KEGG; PDF parsing (`pdfplumber`)
 - Repository: [prokaryotic-ec-operon-filter](https://github.com/Kain8800/prokaryotic-ec-operon-filter)
 
 ### Spotify Churn Analysis: diagnosing the absence of signal in data
-A project with a negative result and a set of experiments showing the result is real, not a modeling error.
-- Five control experiments: a pipeline check on data with a known signal, comparing real labels against deliberately shuffled ones, an examination of what class balancing does, calibration of the mutual-information estimate, and a demonstration of overfitting
+Negative result: the data carries no signal for predicting churn.
 - ROC-AUC **0.50** across all models and preprocessing strategies; the tuned model loses to a constant predictor
+- Five control experiments confirm the result: a pipeline check on data with a known signal, comparing real labels against deliberately shuffled ones, an examination of what class balancing does, calibration of the mutual-information estimate, and a demonstration of overfitting
 - Practical takeaway: how to tell "the model is undertrained" from "there is no signal in the data" before spending time on tuning
 - Repository: [spotify-churn-analysis](https://github.com/Kain8800/spotify-churn-analysis)
 
-### Navi — a Telegram bot for channel navigation
+### Navi: a Telegram bot for channel navigation
 - Post indexing, full-text search, and navigation through an inline interface
 - Asynchronous architecture (aiohttp, Telethon, asyncio) in webhook mode, running in production on Render
 - Repository: [Navi](https://github.com/Kain8800/Navi)
@@ -66,12 +66,12 @@ A project with a negative result and a set of experiments showing the result is 
 - Preparing and processing datasets for research
 - Taking part in planning and running experiments
 - Exploratory analysis of metabolomic data: searching for correlations between metabolites
-- Drafting and reviewing part of a research paper — co-authorship (see Publications)
+- Drafting and reviewing part of a research paper (co-author, see Publications)
 
 ### Hackathons
-**Sistema Hack: Novosibirsk** (MTS and the Sistema Charitable Foundation, hosted at NSU), 14–16 November 2025 — team of 4, CDEK case: a tool for diagnosing and preventing employee burnout. I was responsible for defining the metrics, justifying the applicability of the burnout criteria, and the ML part.
+**Sistema Hack: Novosibirsk** (MTS and the Sistema Charitable Foundation, hosted at NSU), 14–16 November 2025. Team of four, CDEK case: a tool for diagnosing and preventing employee burnout. I was responsible for defining the metrics, justifying the applicability of the burnout criteria, and the ML part.
 
-**Cookie Fest**, Novosibirsk, 29 November – 2 December 2024 — team of 2, predicting employee burnout from HR data (18,590 records). I was responsible for data preparation and exploratory analysis, and for presenting the solution.
+**Cookie Fest**, Novosibirsk, 29 November – 2 December 2024. Team of two, predicting employee burnout from HR data (18,590 records). I was responsible for data preparation and exploratory analysis, and for presenting the solution.
 
 ---
 
@@ -90,6 +90,6 @@ Metabolomic screening of amino acids and acylcarnitines in blood plasma and reco
 ## Career goal
 
 Seeking a Junior/Mid-level role in one of the following areas:
-- **Bioinformatics:** NGS data analysis, pipeline development, genomics
-- **Data Science / ML:** models on tabular and biological data, rigorous validation, data and metric quality control
-- **LLM / RAG:** RAG systems, search and data extraction from documents
+- Bioinformatics: NGS data analysis, pipeline development, genomics
+- Data Science / ML: models on tabular and biological data, model validation, data and metric quality control
+- LLM / RAG: LLM-based applications and RAG systems
