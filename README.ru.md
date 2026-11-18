@@ -2,8 +2,6 @@
 
 # Привет, я Сергей Карманов!
 
-ML / Data Science · Биоинформатика · LLM/RAG · Ищу позицию Junior/Middle · Удалённо или в Новосибирске
-
 Магистр НГУ (ФЕН, 2026). Опыт ML на биологических и биомедицинских данных.
 
 [kainanasarlil@gmail.com](mailto:kainanasarlil@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergey-karmanov/) · [Telegram](https://t.me/Kain8800)
